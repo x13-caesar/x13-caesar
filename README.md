@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 
+
+I'm Caesar, a data enthusiast who skilled in large-scale data manipulation, visualization, and machine learning to uncover actional insights and drive business values. My experience involves predictive modeling, from designing to implementing and deploying, with frameworks and tools like Tensorflow, Docker, AWS and etc.
+
+Now Looking for software engineer or data engineer job opportunity in Great New York area. 
+
+
 
 <!--
 **x13-caesar/x13-caesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
