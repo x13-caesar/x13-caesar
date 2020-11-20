@@ -7,16 +7,25 @@
 **🌈  Languages and Tools:**
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="vuejs" width="40" height="40"/>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="vuejs" width="30" height="30"/>
+
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/x13-caesar/x13-caesar/master/assets/ApacheSpark.svg" alt="flask" width="30" height="30"/>
+
+<img src="https://raw.githubusercontent.com/x13-caesar/x13-caesar/master/assets/TensorFlow.svg" alt="flask" width="30" height="30"/>
+
 </p>
 
 **📫  How to Reach me:**
 
 <p align="left">
-<a href="https://linkedin.com/in/qiangwenxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/linkedin.svg" alt="dongweiming" height="30" width="30" /></a>
-<a href="https://twitter.com/hsu_caesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/twitter.svg" alt="dongweiming" height="30" width="30" /></a>
-<a href="mailto:xuqiangwen1994@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/qiangwenxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/x13-caesar/x13-caesar/master/assets/linkedin.svg" alt="dongweiming" height="30" width="30" /></a>
+<a href="https://twitter.com/hsu_caesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/x13-caesar/x13-caesar/master/assets/twitter.svg" alt="dongweiming" height="30" width="30" /></a>
+<a href="mailto:xuqiangwen1994@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/x13-caesar/x13-caesar/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://jingtaixiongmeng.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/x13-caesar/x13-caesar/master/assets/jingtaixiongmeng.svg" alt="Blog" height="30" width="30" /></a>
+
 </p>
