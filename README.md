@@ -1,6 +1,6 @@
 ### 👋  Hello World!
 
-* 🖥  I'm data analyst, machine learning practitioner, and bloger based in New York.
+* 🖥  I'm data analyst, machine learning practitioner, and blogger based in New York.
 * 🔍  I'm currently looking for data analyst or software engineer job opportunity in Great New York area. 
 * ❤️ Passionate about **Natural Language Processing** and **interactive data visualization**.
 * 💼  Previously, I was working at <a href="https://www.interpublic.com/our-companies/golin/" target="_blank">Golin(IPG)</a> and <a href="https://www.boldseas.com/" target="_blank">BoldSeas Technologies</a> as data analyst role in Shanghai, China. 
