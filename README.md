@@ -1,11 +1,10 @@
-**👋 Hello, folks! :**
+**👋  Hello, folks! :**
 
-* 🖥 I'm data practitioner, web developer and bloger based in New York.
-* 🔍 I'm currently Looking for data analyst or software engineer job opportunity in Great New York area. 
-* 💼 Previously, I was working at <a href="https://www.interpublic.com/our-companies/golin/" target="_blank">Golin|IPG</a> and <a href="https://www.boldseas.com/" target="_blank">BoldSeas Technologies</a> as data analyst and project manager role in Shanghai, China. 
-* 🎮 I'm a console game fan and I have played many <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/ps4.svg" alt="ps4" width="20" height="20"/> and <img src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/nintendoswitch.svg" alt="switch" width="20" height="20"/>  games.
+* 🖥  I'm data practitioner, web developer and bloger based in New York.
+* 🔍  I'm currently Looking for data analyst or software engineer job opportunity in Great New York area. 
+* 💼  Previously, I was working at <a href="https://www.interpublic.com/our-companies/golin/" target="_blank">Golin|IPG</a> and <a href="https://www.boldseas.com/" target="_blank">BoldSeas Technologies</a> as data analyst and project manager role in Shanghai, China. 
 
-**🌈 Languages and Tools:**
+**🌈  Languages and Tools:**
 
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -14,7 +13,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="vuejs" width="40" height="40"/>
 </p>
 
-**📫 How to Reach me:**
+**📫  How to Reach me:**
 
 <p align="left">
 <a href="https://linkedin.com/in/qiangwenxu" target="blank"><img align="center" src="https://raw.githubusercontent.com/dongweiming/dongweiming/master/assets/linkedin.svg" alt="dongweiming" height="30" width="30" /></a>
