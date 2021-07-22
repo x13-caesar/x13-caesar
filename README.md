@@ -4,6 +4,7 @@
 * 🔍  Currently working at a Capital Management firm in NYC but finally will become a farmer in Taiwan or a fishman in Iceland. 
 * ❤️ Passionate about building and breaking things. 
 * 🤞🏼 Be free, be safe. 
+
 --
 
 ### Get In Touch
