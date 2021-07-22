@@ -2,7 +2,7 @@
 
 * 🖥  Full-time adventurer, part-time writer, occasionally software engineer.
 * 🔍  Currently working at a Capital Management firm in NYC but finally will become a farmer in Taiwan or a fishman in Iceland. 
-* ❤️ Passionate about **Natural Language Processing** and **interactive data visualization**.
+* ❤️ Passionate about building and breaking things. 
 * 💼  Previously, I was working at <a href="https://www.interpublic.com/our-companies/golin/" target="_blank">Golin(IPG)</a> and <a href="https://www.boldseas.com/" target="_blank">BoldSeas Technologies</a> as data analyst role in Shanghai, China. 
 
 --
